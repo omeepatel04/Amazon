@@ -337,7 +337,7 @@
     align-items: center;
     height: 1210px;
     width: 100%;
-    background-image: url("/images/hero_image.jpg");
+    background-image: url("images/hero_image.jpg");
     background-size: 100% 600px;
     background-repeat: no-repeat;
     background-color: #e3e6e6;

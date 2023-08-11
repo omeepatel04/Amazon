@@ -71,7 +71,7 @@
     width: 15px;
     height: 17px;
     margin-top: 8px;
-    background-image: url("/images/location_logo.png");
+    background-image: url("images/location_logo.png");
     background-size: cover;
 }
 
@@ -139,7 +139,7 @@
     height: 40px;
     width: 53px;
     background-color: #febd69;
-    background-image: url("/images/search.png");
+    background-image: url("images/search.png");
     background-size: 20px;
     background-position: center;
     background-repeat: no-repeat;
@@ -164,7 +164,7 @@
     height: 16px;
     width: 21px;
     margin: 0 2px 1px 0;
-    background-image: url("/images/us-flag.png");
+    background-image: url("images/us-flag.png");
     background-size: cover;
 }
 
@@ -238,7 +238,7 @@
 .cart-icon {
     height: 50px;
     width: 40px;
-    background-image: url("/images/cart.png");
+    background-image: url("images/cart.png");
     background-size: 100px;
     background-repeat: no-repeat;
     background-position: center;
@@ -417,15 +417,15 @@
 }
 
 .box1-background {
-    background-image: url("/images/box1_image.jpg");
+    background-image: url("images/box1_image.jpg");
 }
 
 .box2-background {
-    background-image: url("/images/box2_image.jpg");
+    background-image: url("images/box2_image.jpg");
 }
 
 .box3-background {
-    background-image: url("/images/box3_image.jpg");
+    background-image: url("images/box3_image.jpg");
 }
 
 .pseudo-box {
@@ -466,26 +466,26 @@
 .sub-box2 {
     height: 250px;
     width: 300px;
-    background-image: url("/images/box4_image.jpg");
+    background-image: url("images/box4_image.jpg");
     background-size: cover;
     background-position: center;
     margin-bottom: 5px;
 }
 
 .box5-background {
-    background-image: url("/images/box5_image.jpg");
+    background-image: url("images/box5_image.jpg");
 }
 
 .box6-background {
-    background-image: url("/images/box6_image.jpg");
+    background-image: url("images/box6_image.jpg");
 }
 
 .box7-background {
-    background-image: url("/images/box7_image.jpg");
+    background-image: url("images/box7_image.jpg");
 }
 
 .box8-background {
-    background-image: url("/images/box8_image.jpg");
+    background-image: url("images/box8_image.jpg");
 }
 
 
